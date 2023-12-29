@@ -1,7 +1,7 @@
 # Reddit_Text_to_Video
 Python code that extracts subreddit stories and turn it into a video
 
-# How to use this script
+## How to use this script
 1. Download the file
 2. Extract the zip file
 3. Create a new conda environment
