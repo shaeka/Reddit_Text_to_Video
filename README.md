@@ -21,7 +21,7 @@ user_agent="YOUR_USER_AGENT"
 5. Open up anaconda prompt or command prompt and activate anaconda environment
 6. Create a new conda environment
 ```
-conda create --name new_env python==3.10
+conda create --name new_env python==3.10 -y
 ```
 7. Activate the environment
 ```
