@@ -1,0 +1,8 @@
+streamlit
+moviepy
+pyttsx3
+opencv-python
+bing-image-urls
+python-dotenv
+google-generativeai
+praw
