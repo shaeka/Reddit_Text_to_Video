@@ -17,24 +17,26 @@ client_id="YOUR_CLIENT_ID"
 client_secret="YOUR_CLIENT_SECRET"
 user_agent="YOUR_USER_AGENT"
 ```
-4. Open up anaconda prompt or command prompt and activate anaconda environment
-5. Create a new conda environment
+4. Place a background video you want to use in the `Input` folder
+5. Open up anaconda prompt or command prompt and activate anaconda environment
+6. Create a new conda environment
 ```
 conda create --name new_env python==3.10
 ```
-6. Activate the environment
+7. Activate the environment
 ```
 conda activate new_env
 ```
-7. Change directory to the location of the extracted folder (e.g. in Downloads)
+8. Change directory to the location of the extracted folder (e.g. in Downloads)
 ```
 cd C:/Users/enter_your_user/Downloads/extracted_filename
 ```
-8. Install the required libraries
+9. Install the required libraries
 ```
 pip install -r requirements.txt
 ```
-9. Run the code
+10. Run the code
 ```
 python reddit_text_to_video.py
 ```
+11. The videos can be found in the `Output` folder
